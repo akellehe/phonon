@@ -1,0 +1,13 @@
+*.pyc
+disref.egg-info/
+.coverage
+dist
+redis-stable
+redis-stable.tar.gz
+*.swp
+dump.rdb
+build
+*.egg
+.idea
+phonon.egg-info/
+.eggs
